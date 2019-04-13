@@ -22,8 +22,6 @@ class Application
     else
       resp.write "You Lose"
     end
- 
-    resp.finish
     resp.finish
   end
 
